@@ -16,8 +16,4 @@ npm start
 ```
 
 ## TODO
-Navigation Implementaion using React Router
-Theming Utilities
-Dashboard
-SignIn
-SignUp
+Navigation Menu Implementaion using React Router
